@@ -9,17 +9,17 @@ create a simple html page using heading tag
 ### STEP 2
 Add a paragragh tag to the program
 ### STEP 3
-
+Add your name and Reference Number using the heading tab
 ### STEP 4
-Execute the program fff
+Execute the program
 
 # CODE
 ~~~<!DOCTYPE html>
 <html>
 
 <body>
-<h1>Name: Karthi govindharaju</h1>
-<h3>Designation: Assistant Professor (SG) /h3>
+<h1>Name: Kaushika Anandharaman</h1>
+<h3>Reference Number: 21500112/h3>
 <h5>Dept.:Artificial Intelligence and Data Science</h5>
 </body>
 
@@ -28,8 +28,8 @@ Execute the program fff
 # OUPUT
 <html>
 <body>
-<h1>Name: Karthi govindharaju</h1>
-<h3>Designation: Assistant Professor (SG)</h3>
+<h1>Name: Kaushika Anandharaman</h1>
+<h3>Reference Number: 21500112</h3>
 <h5>Dept.:Artificial Intelligence and Data Science</h5>
 </body>
 </html>
